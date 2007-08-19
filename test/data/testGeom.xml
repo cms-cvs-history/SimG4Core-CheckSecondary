@@ -12,7 +12,7 @@
  </LogicalPart>
  <LogicalPart name="OCMS" category="unspecified">
   <rSolid name="OCMS"/>
-  <rMaterial name="materials:H_Brass"/>
+  <rMaterial name="materials:E_PbWO4"/>
  </LogicalPart>
 </LogicalPartSection>
 

@@ -2,7 +2,7 @@
 <DDDefinition xmlns="http://www.cern.ch/cms/DDL" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.cern.ch/cms/DDL ../../../DetectorDescription/Schema/DDLSchema.xsd">
 
 <SolidSection label="TiTarget.xml">
- <Box name="OCMS" dx="2.0*m" dy="0.3*m" dz="2.0*m"/> 
+ <Box name="OCMS" dx="2.0*m" dy="0.4*m" dz="2.0*m"/> 
 </SolidSection>
 
 <LogicalPartSection label="TiTarget.xml">
