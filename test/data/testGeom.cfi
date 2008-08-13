@@ -1,7 +1,0 @@
-es_source = XMLIdealGeometryESSource {
-  vstring geomXMLFiles = {
-             "Geometry/CMSCommonData/data/materials.xml",
-             "SimG4Core/CheckSecondary/test/data/testGeom.xml"
-   }
-   string rootNodeName = "testGeom:OCMS"
-}
